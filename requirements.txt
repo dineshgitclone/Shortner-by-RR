@@ -10,3 +10,4 @@ aiohttp
 uvloop
 python-dotenv
 PyBypass
+mdisky
