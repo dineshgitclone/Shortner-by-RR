@@ -1,0 +1,9 @@
+pymongo[srv]
+motor
+Pyrogram
+TgCrypto
+shortzy
+aiofiles
+Flask
+gunicorn
+aiohttp
